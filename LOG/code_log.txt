@@ -1,0 +1,24 @@
+2026-10-16 16:11:17.450777:
+Data has been extracted2026-10-16 16:20:01.288654:
+Data has been extracted2026-10-16 16:20:01.291656:
+Data has been Transformed2026-10-16 16:21:47.695606:
+Data has been extracted2026-10-16 16:21:47.699612:
+Data has been Transformed2026-10-16 16:21:47.709093:Data save in to csv2026-10-16 16:30:55.948972:Data has been Transformed2026-10-16 16:30:55.954967:Data save in to csv2026-10-16 16:59:23.704806:Data has been extracted2026-10-16 16:59:23.709796:Data has been Transformed2026-10-16 16:59:23.719805:Data save in to csv2026-10-16 17:36:16.243513:Data has been extracted2026-10-16 17:36:16.245516:Load Phase Failed. Error: 'function' object has no attribute 'to_csv'2026-10-16 17:40:16.334625: Data has been extracted
+2026-10-16 17:40:16.343674: Data has been Transformed
+2026-10-16 17:40:16.365654: Data has been Transformed
+2026-10-16 17:40:16.375611: Data save in to csv
+2026-10-16 17:40:16.380890: LOAD PHASE (MSSQL) STARTED
+2026-10-16 17:40:16.470599: Load Phase Failed. Error: No module named 'pyodbc'
+2026-10-16 17:57:20.513962: Data has been extracted
+2026-10-16 17:57:20.518034: Data has been Transformed
+2026-10-16 17:57:20.528993: Data has been Transformed
+2026-10-16 17:57:20.533405: Data save in to csv
+2026-10-16 17:57:20.534955: LOAD PHASE (MSSQL) STARTED
+2026-10-16 17:57:21.934274: Load Phase Completed. Data successfully saved to table: bank_Etl
+2026-10-16 18:02:04.752625: Data has been Transformed
+2026-10-16 18:02:04.787628: Data has been Transformed
+2026-10-16 18:02:34.354498: Data has been Transformed
+2026-10-16 18:02:34.363013: Data has been Transformed
+2026-10-16 18:02:34.368921: Data save in to csv
+2026-10-16 18:02:34.368921: LOAD PHASE (MSSQL) STARTED
+2026-10-16 18:02:35.035669: Load Phase Completed. Data successfully saved to table: bank_Etl
